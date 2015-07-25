@@ -1,0 +1,8 @@
+<node>1</node>
+<centrality>k</centrality>
+<closeness>j</closeness>
+<betweenness_centr>i</betweenness_centr>
+<dispersion from='nodeId'>5.3</dispersion>
+<dispersion from='node3'>6.99</dispersion>
+<...>
+

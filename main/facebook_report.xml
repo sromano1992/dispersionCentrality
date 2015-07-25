@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="graphic_xsl.xsl"?>
+<nodes>
+	<node id='0'>
+		<closeness_centrality>0.353342667133</closeness_centrality>
+		<dispersion_centrality>4747.0</dispersion_centrality>
+	</node>
+	<node id='1'>
+		<closeness_centrality>0.261376140851</closeness_centrality>
+		<dispersion_centrality>20.0</dispersion_centrality>
+	</node>
+	<node id='2'>
+		<closeness_centrality>0.261257763975</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='3'>
+		<closeness_centrality>0.261376140851</closeness_centrality>
+		<dispersion_centrality>16.0</dispersion_centrality>
+	</node>
+	<node id='4'>
+		<closeness_centrality>0.261257763975</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='5'>
+		<closeness_centrality>0.26130848379</closeness_centrality>
+		<dispersion_centrality>25.0</dispersion_centrality>
+	</node>
+	<node id='6'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='7'>
+		<closeness_centrality>0.274768644529</closeness_centrality>
+		<dispersion_centrality>2.0</dispersion_centrality>
+	</node>
+	<node id='8'>
+		<closeness_centrality>0.261223961703</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='9'>
+		<closeness_centrality>0.26205464339</closeness_centrality>
+		<dispersion_centrality>16.0</dispersion_centrality>
+	</node>
+	<node id='10'>
+		<closeness_centrality>0.261257763975</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='11'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='12'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='13'>
+		<closeness_centrality>0.261613216715</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='14'>
+		<closeness_centrality>0.261342307941</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='15'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='16'>
+		<closeness_centrality>0.261240861745</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='17'>
+		<closeness_centrality>0.26130848379</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='18'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='19'>
+		<closeness_centrality>0.261359223301</closeness_centrality>
+		<dispersion_centrality>79.0</dispersion_centrality>
+	</node>
+	<node id='20'>
+		<closeness_centrality>0.261342307941</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='21'>
+		<closeness_centrality>0.275612586172</closeness_centrality>
+		<dispersion_centrality>201.0</dispersion_centrality>
+	</node>
+	<node id='22'>
+		<closeness_centrality>0.261274668392</closeness_centrality>
+		<dispersion_centrality>2.0</dispersion_centrality>
+	</node>
+	<node id='23'>
+		<closeness_centrality>0.261376140851</closeness_centrality>
+		<dispersion_centrality>110.0</dispersion_centrality>
+	</node>
+	<node id='24'>
+		<closeness_centrality>0.261359223301</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='25'>
+		<closeness_centrality>0.2622588816</closeness_centrality>
+		<dispersion_centrality>483.0</dispersion_centrality>
+	</node>
+	<node id='26'>
+		<closeness_centrality>0.262241849591</closeness_centrality>
+		<dispersion_centrality>9.0</dispersion_centrality>
+	</node>
+	<node id='27'>
+		<closeness_centrality>0.261173274691</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='28'>
+		<closeness_centrality>0.26130848379</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='29'>
+		<closeness_centrality>0.26130848379</closeness_centrality>
+		<dispersion_centrality>13.0</dispersion_centrality>
+	</node>
+	<node id='30'>
+		<closeness_centrality>0.261376140851</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+	</node>
+	<node id='31'>
+		<closeness_centrality>0.261477692158</closeness_centrality>
+		<dispersion_centrality>35.0</dispersion_centrality>
+	</node>
+	<node id='32'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='33'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='34'>
+		<closeness_centrality>0.303312551641</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='35'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='36'>
+		<closeness_centrality>0.261274668392</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='37'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='38'>
+		<closeness_centrality>0.261240861745</closeness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+	</node>
+	<node id='39'>
+		<closeness_centrality>0.261342307941</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='40'>
+		<closeness_centrality>0.261833744002</closeness_centrality>
+		<dispersion_centrality>96.0</dispersion_centrality>
+	</node>
+	<node id='41'>
+		<closeness_centrality>0.261494625049</closeness_centrality>
+		<dispersion_centrality>16.0</dispersion_centrality>
+	</node>
+	<node id='42'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='43'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='44'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='45'>
+		<closeness_centrality>0.261291574997</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='46'>
+		<closeness_centrality>0.261173274691</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='47'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='48'>
+		<closeness_centrality>0.261460761461</closeness_centrality>
+		<dispersion_centrality>28.0</dispersion_centrality>
+	</node>
+	<node id='49'>
+		<closeness_centrality>0.261156383392</closeness_centrality>
+		<dispersion_centrality>3.0</dispersion_centrality>
+	</node>
+	<node id='50'>
+		<closeness_centrality>0.261274668392</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+	</node>
+	<node id='51'>
+		<closeness_centrality>0.261207063846</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='52'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='53'>
+		<closeness_centrality>0.261613216715</closeness_centrality>
+		<dispersion_centrality>92.0</dispersion_centrality>
+	</node>
+	<node id='54'>
+		<closeness_centrality>0.261223961703</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+	</node>
+	<node id='55'>
+		<closeness_centrality>0.261376140851</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='56'>
+		<closeness_centrality>0.275857357563</closeness_centrality>
+		<dispersion_centrality>89.0</dispersion_centrality>
+	</node>
+	<node id='57'>
+		<closeness_centrality>0.261342307941</closeness_centrality>
+		<dispersion_centrality>7.0</dispersion_centrality>
+	</node>
+	<node id='58'>
+		<closeness_centrality>0.397401830528</closeness_centrality>
+		<dispersion_centrality>18.0</dispersion_centrality>
+	</node>
+	<node id='59'>
+		<closeness_centrality>0.261409982521</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='60'>
+		<closeness_centrality>0.261223961703</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='61'>
+		<closeness_centrality>0.261139494277</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+	</node>
+	<node id='62'>
+		<closeness_centrality>0.261528497409</closeness_centrality>
+		<dispersion_centrality>7.0</dispersion_centrality>
+	</node>
+	<node id='63'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='64'>
+		<closeness_centrality>0.279040840301</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='65'>
+		<closeness_centrality>0.261291574997</closeness_centrality>
+		<dispersion_centrality>3.0</dispersion_centrality>
+	</node>
+	<node id='66'>
+		<closeness_centrality>0.261342307941</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='67'>
+		<closeness_centrality>0.275819672131</closeness_centrality>
+		<dispersion_centrality>64.0</dispersion_centrality>
+	</node>
+	<node id='68'>
+		<closeness_centrality>0.261240861745</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='69'>
+		<closeness_centrality>0.261257763975</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='70'>
+		<closeness_centrality>0.261122607346</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='71'>
+		<closeness_centrality>0.261139494277</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='72'>
+		<closeness_centrality>0.261494625049</closeness_centrality>
+		<dispersion_centrality>3.0</dispersion_centrality>
+	</node>
+	<node id='73'>
+		<closeness_centrality>0.261257763975</closeness_centrality>
+		<dispersion_centrality>2.0</dispersion_centrality>
+	</node>
+	<node id='74'>
+		<closeness_centrality>0.261105722599</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='75'>
+		<closeness_centrality>0.261325394771</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='76'>
+		<closeness_centrality>0.261139494277</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='77'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>2.0</dispersion_centrality>
+	</node>
+	<node id='78'>
+		<closeness_centrality>0.261240861745</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='79'>
+		<closeness_centrality>0.261291574997</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='80'>
+		<closeness_centrality>0.267914012739</closeness_centrality>
+		<dispersion_centrality>20.0</dispersion_centrality>
+	</node>
+	<node id='81'>
+		<closeness_centrality>0.261139494277</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+	</node>
+	<node id='82'>
+		<closeness_centrality>0.26166407465</closeness_centrality>
+		<dispersion_centrality>21.0</dispersion_centrality>
+	</node>
+	<node id='83'>
+		<closeness_centrality>0.261207063846</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='84'>
+		<closeness_centrality>0.26130848379</closeness_centrality>
+		<dispersion_centrality>9.0</dispersion_centrality>
+	</node>
+	<node id='85'>
+		<closeness_centrality>0.261325394771</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+	<node id='86'>
+		<closeness_centrality>0.261190168176</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+	</node>
+</nodes>

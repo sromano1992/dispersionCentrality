@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="graphic_xsl.xsl"?>
+<nodes>
+	<node id='1'>
+		<closeness_centrality>0.578947368421</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='2'>
+		<closeness_centrality>0.6875</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.03125</normalized_dispersion_centrality>
+	</node>
+	<node id='3'>
+		<closeness_centrality>0.578947368421</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='4'>
+		<closeness_centrality>0.611111111111</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='5'>
+		<closeness_centrality>0.6875</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.03125</normalized_dispersion_centrality>
+	</node>
+	<node id='6'>
+		<closeness_centrality>0.6875</closeness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.03125</normalized_dispersion_centrality>
+	</node>
+	<node id='7'>
+		<closeness_centrality>0.52380952381</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='8'>
+		<closeness_centrality>1.0</closeness_centrality>
+		<dispersion_centrality>7.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.21875</normalized_dispersion_centrality>
+	</node>
+	<node id='9'>
+		<closeness_centrality>0.647058823529</closeness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.125</normalized_dispersion_centrality>
+	</node>
+	<node id='10'>
+		<closeness_centrality>0.611111111111</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='11'>
+		<closeness_centrality>0.611111111111</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+	<node id='12'>
+		<closeness_centrality>0.578947368421</closeness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<normalized_dispersion_centrality>0.0</normalized_dispersion_centrality>
+	</node>
+</nodes>

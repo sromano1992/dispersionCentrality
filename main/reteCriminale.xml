@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="graphic_xsl.xsl"?>
+<nodes>
+	<node id='0'>
+		<degree_centrality>0.0849673202614</degree_centrality>
+		<closeness_centrality>0.399408284024</closeness_centrality>
+		<betweenness_centrality>2781.66699134</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.307692307692</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='48'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.306818181818</closeness_centrality>
+		<betweenness_centrality>0.4</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='49'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.306818181818</closeness_centrality>
+		<betweenness_centrality>0.4</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='3'>
+		<degree_centrality>0.104575163399</degree_centrality>
+		<closeness_centrality>0.364864864865</closeness_centrality>
+		<betweenness_centrality>663.742821068</betweenness_centrality>
+		<dispersion_centrality>11.0</dispersion_centrality>
+		<dispersion_average>0.6875</dispersion_average>
+		<dispersion_max>11.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='4'>
+		<degree_centrality>0.196078431373</degree_centrality>
+		<closeness_centrality>0.424528301887</closeness_centrality>
+		<betweenness_centrality>3988.82142857</betweenness_centrality>
+		<dispersion_centrality>37.0</dispersion_centrality>
+		<dispersion_average>1.23333333333</dispersion_average>
+		<dispersion_max>20.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='155'>
+		<degree_centrality>0.0392156862745</degree_centrality>
+		<closeness_centrality>0.30612244898</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='156'>
+		<degree_centrality>0.0392156862745</degree_centrality>
+		<closeness_centrality>0.30612244898</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='154'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.305429864253</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='70'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.303370786517</closeness_centrality>
+		<betweenness_centrality>696.658946609</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.571428571429</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='10'>
+		<degree_centrality>0.0980392156863</degree_centrality>
+		<closeness_centrality>0.354330708661</closeness_centrality>
+		<betweenness_centrality>2033.34801587</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.0666666666667</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='9'>
+		<degree_centrality>0.0718954248366</degree_centrality>
+		<closeness_centrality>0.365853658537</closeness_centrality>
+		<betweenness_centrality>1004.35353535</betweenness_centrality>
+		<dispersion_centrality>5.0</dispersion_centrality>
+		<dispersion_average>0.454545454545</dispersion_average>
+		<dispersion_max>2.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='31'>
+		<degree_centrality>0.0522875816993</degree_centrality>
+		<closeness_centrality>0.339195979899</closeness_centrality>
+		<betweenness_centrality>63.3166666667</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='1'>
+		<degree_centrality>0.0522875816993</degree_centrality>
+		<closeness_centrality>0.3515625</closeness_centrality>
+		<betweenness_centrality>1184.45238095</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='2'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.261121856867</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='44'>
+		<degree_centrality>0.0392156862745</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>278.09047619</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.666666666667</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='164'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.262645914397</closeness_centrality>
+		<betweenness_centrality>266.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='106'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.261121856867</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='108'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.261121856867</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='107'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.261121856867</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='33'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.31990521327</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='32'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.31990521327</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='47'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.267857142857</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='141'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.31914893617</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='51'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.31914893617</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='8'>
+		<degree_centrality>0.176470588235</degree_centrality>
+		<closeness_centrality>0.362903225806</closeness_centrality>
+		<betweenness_centrality>2394.73134921</betweenness_centrality>
+		<dispersion_centrality>22.0</dispersion_centrality>
+		<dispersion_average>0.814814814815</dispersion_average>
+		<dispersion_max>20.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='122'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.3</closeness_centrality>
+		<betweenness_centrality>134.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='93'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.306818181818</closeness_centrality>
+		<betweenness_centrality>466.547619048</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='96'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.307517084282</closeness_centrality>
+		<betweenness_centrality>292.74047619</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.2</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='90'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='177'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='176'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='12'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='20'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.313225058005</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='38'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.34793814433</closeness_centrality>
+		<betweenness_centrality>1230.52463925</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.571428571429</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='30'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.313953488372</closeness_centrality>
+		<betweenness_centrality>27.2198412698</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.333333333333</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='39'>
+		<degree_centrality>0.0522875816993</degree_centrality>
+		<closeness_centrality>0.334987593052</closeness_centrality>
+		<betweenness_centrality>532.387265512</betweenness_centrality>
+		<dispersion_centrality>5.0</dispersion_centrality>
+		<dispersion_average>0.625</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='153'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='152'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='150'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.31914893617</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='149'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='148'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='142'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='136'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='134'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='5'>
+		<degree_centrality>0.0522875816993</degree_centrality>
+		<closeness_centrality>0.264705882353</closeness_centrality>
+		<betweenness_centrality>261.495238095</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='79'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.211930926217</closeness_centrality>
+		<betweenness_centrality>14.3333333333</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='138'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.292207792208</closeness_centrality>
+		<betweenness_centrality>259.43968254</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='36'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.246800731261</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='35'>
+		<degree_centrality>0.0718954248366</degree_centrality>
+		<closeness_centrality>0.267326732673</closeness_centrality>
+		<betweenness_centrality>574.632034632</betweenness_centrality>
+		<dispersion_centrality>8.0</dispersion_centrality>
+		<dispersion_average>0.727272727273</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='37'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.246800731261</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='6'>
+		<degree_centrality>0.0718954248366</degree_centrality>
+		<closeness_centrality>0.29284164859</closeness_centrality>
+		<betweenness_centrality>1265.6040404</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='111'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='110'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='118'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.2738336714</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='114'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='131'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='171'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='173'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='7'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.182186234818</closeness_centrality>
+		<betweenness_centrality>134.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='146'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.22131147541</closeness_centrality>
+		<betweenness_centrality>396.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='147'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.181940700809</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='175'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.154285714286</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='132'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='133'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='137'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='174'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='18'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.286624203822</closeness_centrality>
+		<betweenness_centrality>13.3333333333</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.333333333333</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='172'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='69'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='88'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.27</closeness_centrality>
+		<betweenness_centrality>396.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='99'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.267326732673</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='103'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.267857142857</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='102'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.267326732673</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='101'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.267326732673</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='105'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.267857142857</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='104'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.267857142857</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='121'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='45'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.268924302789</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='14'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.27</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='15'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.268389662028</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='16'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.268389662028</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='85'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.267326732673</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='84'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='87'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='86'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='71'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.340909090909</closeness_centrality>
+		<betweenness_centrality>1344.80692641</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.142857142857</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='75'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.2738336714</closeness_centrality>
+		<betweenness_centrality>92.5063492063</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='81'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.277777777778</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='80'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.266272189349</closeness_centrality>
+		<betweenness_centrality>524.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='83'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='82'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='159'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='158'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='21'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.343511450382</closeness_centrality>
+		<betweenness_centrality>922.157936508</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='11'>
+		<degree_centrality>0.0457516339869</degree_centrality>
+		<closeness_centrality>0.280082987552</closeness_centrality>
+		<betweenness_centrality>1080.18737374</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='129'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.219155844156</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='13'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.213607594937</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='160'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.213607594937</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='34'>
+		<degree_centrality>0.0392156862745</degree_centrality>
+		<closeness_centrality>0.247252747253</closeness_centrality>
+		<betweenness_centrality>29.6917748918</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.666666666667</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='74'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.211267605634</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='157'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.211267605634</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='40'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.26213592233</closeness_centrality>
+		<betweenness_centrality>143.25</betweenness_centrality>
+		<dispersion_centrality>1.0</dispersion_centrality>
+		<dispersion_average>0.25</dispersion_average>
+		<dispersion_max>1.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='53'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.252336448598</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='41'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.251396648045</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='46'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.251396648045</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='43'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.208012326656</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='42'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.287846481876</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='92'>
+		<degree_centrality>0.0326797385621</degree_centrality>
+		<closeness_centrality>0.241071428571</closeness_centrality>
+		<betweenness_centrality>51.0761904762</betweenness_centrality>
+		<dispersion_centrality>4.0</dispersion_centrality>
+		<dispersion_average>0.8</dispersion_average>
+		<dispersion_max>4.0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='95'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.211598746082</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='94'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.211598746082</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='91'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.240213523132</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='50'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.267857142857</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='54'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='58'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='57'>
+		<degree_centrality>0.0915032679739</degree_centrality>
+		<closeness_centrality>1.0</closeness_centrality>
+		<betweenness_centrality>24.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='56'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='55'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='61'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='60'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='59'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='65'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='64'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='63'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='62'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='66'>
+		<degree_centrality>0.078431372549</degree_centrality>
+		<closeness_centrality>0.875</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='67'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.538461538462</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='68'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.538461538462</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='128'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.265225933202</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='76'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.209627329193</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='77'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.211598746082</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='78'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.211267605634</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='127'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.257633587786</closeness_centrality>
+		<betweenness_centrality>184.083333333</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='126'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.207692307692</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='112'>
+		<degree_centrality>0.0261437908497</degree_centrality>
+		<closeness_centrality>0.212598425197</closeness_centrality>
+		<betweenness_centrality>399.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='89'>
+		<degree_centrality>0.0196078431373</degree_centrality>
+		<closeness_centrality>0.213607594937</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='143'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.235191637631</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='97'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.235602094241</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='98'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.235602094241</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='100'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.266798418972</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='109'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='161'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.1755526658</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='163'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.1755526658</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='113'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.1755526658</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='115'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.226890756303</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='117'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.666666666667</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='116'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>1.0</closeness_centrality>
+		<betweenness_centrality>1.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='120'>
+		<degree_centrality>0.0130718954248</degree_centrality>
+		<closeness_centrality>0.208978328173</closeness_centrality>
+		<betweenness_centrality>134.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='119'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.173076923077</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='123'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.298672566372</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='125'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.231164383562</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='135'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.268389662028</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='140'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.268389662028</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='145'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.219155844156</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+	<node id='167'>
+		<degree_centrality>0.00653594771242</degree_centrality>
+		<closeness_centrality>0.666666666667</closeness_centrality>
+		<betweenness_centrality>0.0</betweenness_centrality>
+		<dispersion_centrality>0.0</dispersion_centrality>
+		<dispersion_average>0.0</dispersion_average>
+		<dispersion_max>0</dispersion_max>
+		<dispersion_min>0</dispersion_min>
+	</node>
+</nodes>
